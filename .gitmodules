@@ -1,0 +1,3 @@
+[submodule "gitsubmodules_sub"]
+	path = gitsubmodules_sub
+	url = https://github.com/subpx/gitsubmodules_sub.git
